@@ -7,7 +7,7 @@ This repository is a personal archive of machine learning projects created as pa
 
 ### 1. Mall Customer Segmentation (Exploratory Data Analysis)
 
-- 📓 [View Notebook](https://github.com/JayalakshmyJayakrishnan/ML-Projects/blob/main/ML_Project_%5BMall_Customer_Segmentation%5D.ipynb)
+- 📓 [View Project-1](https://github.com/JayalakshmyJayakrishnan/ML-Projects/blob/main/ML_Project_%5BMall_Customer_Segmentation%5D.ipynb)
 
 ---
 
